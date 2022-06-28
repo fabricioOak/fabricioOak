@@ -1,6 +1,6 @@
 # 💫About Me :
 <h1 align="center">Hello there 👋, I'm Fabrício Carvalho</h1>
-<h3 align="center">I'm a rookie frontend developer from Brazil.</h3>
+<h3 align="center">I'm a frontend developer from Brazil.</h3>
 
 - 🌱 I’m currently learning **VueJS and React**
 
