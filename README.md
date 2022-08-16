@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋, I'm Fabrício Carvalho</h1>
 <h3 align="center">I'm a frontend developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **VueJS and React**
+- 🌱 I’m currently learning **VueJS**
 
 - &#9829; Fall in love with **Javascript**
 
