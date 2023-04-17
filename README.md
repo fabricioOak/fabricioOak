@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Fabricio</h1>
 <h3 align="center">A passionate software developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript and Ruby**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **fcarvalho1999@gmail.com**
 
